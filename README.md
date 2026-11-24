@@ -326,10 +326,9 @@ int main() {
 
 ## OUTPUT:
 
-```
 <img width="1700" height="386" alt="image" src="https://github.com/user-attachments/assets/9755e6ca-25ee-46a1-a90b-29f9750f904e" />
 
-```
+
 
 ## RESULT:
 
